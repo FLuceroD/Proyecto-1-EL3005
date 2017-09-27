@@ -2,6 +2,7 @@
 Proyecto 1: Estudio de Técnicas de Procesamiento de Señales de Sistemas de Sonar
 
 LAS IMAGENES DEL INFORME ESTAN EN LA CARPETA /IMG
+
 TODOS LOS CODIGOS SE ENCUENTRAN EN LA CARPETA /CODIGOS
 
 Parte b): Se ejecuta parte_b.m . Dentro del archivo se podrá modificar el set de datos
