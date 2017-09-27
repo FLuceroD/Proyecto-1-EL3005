@@ -13,6 +13,10 @@ errores = csvread('errores_sonar.txt');  % Errores, para cada ganancia
 e = errores(:,k);       % se extraen los errores para el set de datos k
 
 
+% Para generar nuevos errores, se debe ejecutar la funcion ruido_senal.m
+% Recursivamente para cada 
+
+
 %-------------------------------------------------------------------------%
 % Se grafica
 %-------------------------------------------------------------------------%
